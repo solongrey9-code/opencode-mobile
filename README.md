@@ -13,13 +13,15 @@
   <img src="https://img.shields.io/badge/Kotlin-2.1%20%C2%B7%20Compose-7F52FF.svg" alt="Kotlin 2.1 and Jetpack Compose">
 </p>
 
+<p align="center">Live SSE sync · Answer permissions and questions on the go · Todo &amp; Diff review · Desktop-grade model parity</p>
+
 <p align="center">
   <img src="assets/screenshot-timeline.png" alt="Session timeline: Todo list, user request, reasoning block, code answer and tool cards" width="300">
   <img src="assets/screenshot-sessions.png" alt="Session list grouped by project with a running session badge" width="300">
   <br><em>Left: live session timeline with Todo, reasoning and tool activity. Right: cross-project sessions with a running badge.</em>
 </p>
 
-<p align="center"><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a></p>
+<p align="center"><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a> | <a href="#quick-start">Quick Start</a></p>
 
 ---
 

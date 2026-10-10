@@ -13,13 +13,15 @@
   <img src="https://img.shields.io/badge/Kotlin-2.1%20%C2%B7%20Compose-7F52FF.svg" alt="Kotlin 2.1 与 Jetpack Compose">
 </p>
 
+<p align="center">SSE 实时同步 · 手机上处理权限与问题 · Todo 与 Diff 审查 · Desktop 级模型一致性</p>
+
 <p align="center">
   <img src="assets/screenshot-timeline.png" alt="会话时间线：Todo 列表、用户请求、推理块、代码回答与工具卡片" width="300">
   <img src="assets/screenshot-sessions.png" alt="按项目分组的会话列表，带有运行中标记" width="300">
   <br><em>左：带 Todo、推理与工具活动的实时会话时间线。右：跨项目会话列表与运行中标记。</em>
 </p>
 
-<p align="center"><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a></p>
+<p align="center"><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a> | <a href="#快速开始">快速开始</a></p>
 
 ---
 
