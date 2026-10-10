@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Only the ADB shell/system can provision the debug bridge credential. -->
+        <receiver
+            android:name=".BridgeProvisionReceiver"
+            android:exported="true"
+            android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="ai.opencode.mobile.CONFIGURE_BRIDGE" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

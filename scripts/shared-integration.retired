@@ -1,0 +1,3 @@
+Android/Desktop shared server, metadata bridge, provisioning and auto-start are retired.
+The former scripts remain as historical implementation references.
+See docs/RETIREMENT.md for the retirement procedure and preserved recovery evidence.
